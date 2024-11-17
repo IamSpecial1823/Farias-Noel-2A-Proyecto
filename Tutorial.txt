@@ -1,0 +1,7 @@
+Tutorial:
+
+Es sencillo.
+
+Se mueve con A (atras) y D (adelante).
+Espacio para saltar.
+Escape para cerrar
